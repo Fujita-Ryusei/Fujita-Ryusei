@@ -1,5 +1,5 @@
 [![fuzzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fujita-Ryusei)](https://github.com/Fujita-Ryusei/github-readme-stats)
-[![fuzzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fujita-Ryusei)](https://github.com/Fujita-Ryusei/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fujita-Ryusei)](https://github.com/Fujita-Ryusei/github-readme-stats)
 
 <!---
 Fujita-Ryusei/Fujita-Ryusei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
